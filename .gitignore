@@ -1,0 +1,5 @@
+devops-workshop/
+**/*.tfstate
+**/*.tfstate.*
+**/*.terraform/*
+**/terraform_code_bkp
